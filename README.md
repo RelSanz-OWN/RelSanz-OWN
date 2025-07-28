@@ -49,8 +49,7 @@
 
 ## 🔥 **Fitur Keren**  
 ```js
-// Contoh kode JavaScript favoritmu (opsional)
+
 function networkCheck() {
   console.log("Ping google.com...");
-  // Script networking custom bisa ditampilkan di sini
 }
