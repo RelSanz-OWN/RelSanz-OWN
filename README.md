@@ -40,7 +40,7 @@
 
 ---
 
-## 🌐 **Network Projects**  
+## 🌐 **My Projects**  
 🔹 **[Web BK](https://github.com/RelSanz-OWN/bk-project)** - Website bk dengan dashboard guru
 🔹 **[Aplikasi Bank](https://github.com/RelSanz-OWN/cpp-projek-sederhana)** - Aplikasi Bank dengan fitur saldo
 
