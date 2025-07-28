@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+![GitHub Stats](https://img.shields.io/badge/𝚂𝚝𝚊𝚝𝚜-𝟷𝟶𝟶%𝟸𝟻%𝟸𝟶𝙲𝚘𝚖𝚖𝚒𝚝𝚜-2CA5E0?logo=github&logoColor=white&style=flat)
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=RelSanz-OWN&theme=transparent&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RelSanz-OWN&layout=compact&theme=transparent&hide_border=true) |
 |----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
