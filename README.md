@@ -27,8 +27,8 @@
 
 ## 📊 **GitHub Analytics**  
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&hide=php,ruby" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RelSanz-OWN&show_icons=true&theme=dark&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RelSanz-OWN&layout=compact&theme=dark&hide=php,ruby" />
 </div>
 
 ---
