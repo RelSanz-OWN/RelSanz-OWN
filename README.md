@@ -1,56 +1,56 @@
-<h1 align="center">Hi there 👋, I'm Farellyo</h1>
-<h3 align="center">A passionate developer and technology enthusiast from Indonesia 🇮🇩</h3>
+# 👨‍💻 **Hai, Saya RelSanz**  
+### 🛠️ **Web Developer | Robotics | Network Enthusiast | Konfigurasi Internet | Open Source Contributor**  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&lines=Web+Developer;Creative+Coder;Open+Source+Lover;Always+Learning..." />
-</p>
+🔧 **Skill Utama:**  
+`Frontend Development` `Networking` `System Configuration`  
 
----
-
-- 🔭 I’m currently working on: **My Portfolio Website & Cool Web Projects**
-- 🌱 I’m currently learning: **React, Laravel, AI Integration**
-- 👯 I’m looking to collaborate on: **Open Source Projects**
-- 💬 Ask me about: **Web dev, APIs, or cool ideas**
-- 📫 How to reach me: **farellyo@example.com**
-- ⚡ Fun fact: I code best with coffee ☕ and music 🎧
+🌱 **Sedang Dipelajari:** React, Node.js, Cybersecurity  
+💬 **Tanya saya tentang:** HTML/CSS, JavaScript, atau jaringan komputer  
+⚡ **Fun Fact:** Saya suka otak-atik router & bikin script otomatisasi!  
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-</p>
+## 🧰 **Tech Stack**  
+### **Bahasa & Framework**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+
+### **Tools & Lainnya**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)  
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farellyo&show_icons=true&theme=radical" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farellyo&layout=compact&theme=radical" width="47%"/>
-</p>
+## 📊 **GitHub Analytics**  
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&hide=php,ruby" />
+</div>
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
-  <a href="https://instagram.com/yourinsta" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" /></a>
-  <a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" /></a>
-</p>
+## 🌐 **Network Projects**  
+🔹 **[Network Config Generator](link-repo)** - Tool konfigurasi jaringan otomatis  
+🔹 **[Ping Monitor](link-repo)** - Script pemantauan jaringan berbasis CLI  
+🔹 **[Web Port Scanner](link-repo)** - Scanner port sederhana pakai JavaScript  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=farellyo&theme=dark" />
-</p>
+## 📫 **Temui Saya**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=farellyo&theme=react-dark" />
-</p>
+---
+
+## 🔥 **Fitur Keren**  
+```js
+// Contoh kode JavaScript favoritmu (opsional)
+function networkCheck() {
+  console.log("Ping google.com...");
+  // Script networking custom bisa ditampilkan di sini
+}
