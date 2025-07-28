@@ -32,7 +32,7 @@
 
 ---
 
-![GitHub Stats]([https://img.shields.io/badge/𝚂𝚝𝚊𝚝𝚜-𝟷𝟶𝟶%𝟸𝟻%𝟸𝟶𝙲𝚘𝚖𝚖𝚒𝚝𝚜-2CA5E0?logo=github&logoColor=white&style=flat](https://img.shields.io/badge/%F0%9D%9A%82%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%9C-%F0%9D%9F%B7%F0%9D%9F%B6%F0%9D%9F%B6%25%F0%9D%9F%B8%F0%9D%9F%BB%25%F0%9D%9F%B8%F0%9D%9F%B6%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%96%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%9C-2CA5E0?logo=github&logoColor=white&style=flat))
+![GitHub Stats]([https://img.shields.io/badge/𝚂𝚝𝚊𝚝𝚜-𝟷𝟶𝟶%𝟸𝟻%𝟸𝟶𝙲𝚘𝚖𝚖𝚒𝚝𝚜-2CA5E0?logo=github&logoColor=white&style=flat](https://img.shields.io/badge/%F0%9D%9A%82%F0%9D%9A%9D%F0%9D%9A%8A%F0%9D%9A%9D%F0%9D%9A%9C-%F0%9D%9F%B7%F0%9D%9F%B6%F0%9D%9F%B6%25%F0%9D%9F%B8%F0%9D%9F%BB%25%F0%9D%9F%B8%F0%9D%9F%B6%F0%9D%99%B2%F0%9D%9A%98%F0%9D%9A%96%F0%9D%9A%96%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%9C-2CA5E0?logo=github&logoColor=white&style=flat)
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=RelSanz-OWN&theme=transparent&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RelSanz-OWN&layout=compact&theme=transparent&hide_border=true) |
 |----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
