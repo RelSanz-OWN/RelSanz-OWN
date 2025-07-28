@@ -41,16 +41,17 @@
 ---
 
 ## 🌐 **Network Projects**  
-🔹 **[Network Config Generator](link-repo)** - Tool konfigurasi jaringan otomatis  
-🔹 **[Ping Monitor](link-repo)** - Script pemantauan jaringan berbasis CLI  
-🔹 **[Web Port Scanner](link-repo)** - Scanner port sederhana pakai JavaScript  
+🔹 **[Network Config Generator](https://github.com/RelSanz-OWN/bk-project)** - Web BK
+🔹 **[Ping Monitor][(link-repo)](https://github.com/RelSanz-OWN/cpp-projek-sederhana)** - Aplikasi Bank
 
 ---
 
-## 📫 **Temui Saya**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+## 💬 **Let's Collab!**  
+📷 [Instagram](https://instagram.com/yourusername) - **Daily tech stories**  
+🎥 [YouTube](https://youtube.com/@yourusername) - **Steaming**  
+🎵 [TikTok](https://tiktok.com/@yourusername) - **Coding short**  
+🎮 [Discord](https://discord.gg/your-invite-code) - **Dev community**  
+💻 [GitHub](https://github.com/yourusername) - **Open-source work**  
 
 ---
 
