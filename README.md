@@ -1,5 +1,4 @@
-<h1 align="center" style="color:#00e4fd"> 🖥️☪️ RelSanz Proggramer </h1> \
-<img src="https://i.pinimg.com/originals/40/29/e8/4029e81f1da34e646b778f8dae172d65.jpg" alt="">
+<h1 align="center" style="color:#00e4fd"> 🖥️☪️ RelSanz Proggramer </h1>
 <h1 align="center"> 🛠️ Web Developer | Robotics | Network Enthusiast | Konfigurasi Internet | Open Source Contributor</h1> 
 
 🔧 **Skill Utama:**  
