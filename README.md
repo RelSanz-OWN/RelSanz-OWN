@@ -1,5 +1,5 @@
-# 👨‍💻 **Hai, Saya RelSanz**  
-### 🛠️ **Web Developer | Robotics | Network Enthusiast | Konfigurasi Internet | Open Source Contributor**  
+<h1 align="center"> 👨‍💻 **Hai, Saya RelSanz** </h1> 
+<h1 align="center"> 🛠️ **Web Developer | Robotics | Network Enthusiast | Konfigurasi Internet | Open Source Contributor**  </h1> 
 
 🔧 **Skill Utama:**  
 `Frontend Development` `Networking` `System Configuration`  
