@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#00e4fd"> 🖥️☪ RelSanz-OWN Proggramer </h1>
+<h1 align="center" style="color:#00e4fd; width:60px;"> 🖥️ RelSanz-OWN Proggramer </h1>
 <div align="center">
   <img src="img1.jpg" style="border-radius: 50%; width: 100px; height: 100px;" alt="Profile Image"/>
 </div>
