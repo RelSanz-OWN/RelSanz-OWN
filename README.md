@@ -1,5 +1,16 @@
-<h1 align="center" style="color:#00e4fd"> 🖥️☪️ RelSanz Proggramer </h1>
-<img src="img1.jpg" alt="">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+      img{
+        border-radius : 20;
+      }
+    </style>
+</head>
+<body>
+    <h1 align="center" style="color:#00e4fd"> 🖥️☪️ RelSanz Proggramer </h1>
+<img align="center" src="img1.jpg" alt="">
 <h1 align="center"> 🛠️ Web Developer | Robotics | Network Enthusiast | Konfigurasi Internet | Open Source Contributor</h1> 
 
 🔧 **Skill Utama:**  
@@ -63,3 +74,6 @@
 function networkCheck() {
   console.log("Ping google.com...");
 }
+
+</body>
+</html>
