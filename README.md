@@ -1,4 +1,5 @@
-<h1 align="center" style="color:#00e4fd"> 🖥️☪️ RelSanz Proggramer </h1> 
+<h1 align="center" style="color:#00e4fd"> 🖥️☪️ RelSanz Proggramer </h1> \
+<h1 style="color: blue;">Judul Biru</h1>
 <h1 align="center"> 🛠️ Web Developer | Robotics | Network Enthusiast | Konfigurasi Internet | Open Source Contributor</h1> 
 
 🔧 **Skill Utama:**  
