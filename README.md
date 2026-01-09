@@ -7,7 +7,7 @@
 🔧 **Skill Utama:**  
 `Frontend Development` `Networking` `System Configuration`  
 
-🌱 **Sedang Dipelajari:** Biomedical Engineering. Medical Imaging. Machine Learning
+🌱 **Sedang Dipelajari:** Biomedical Engineering
 💬 **Tanya saya tentang:** HTML/CSS, JavaScript, atau jaringan komputer  
 ⚡ **Fun Fact:** Saya suka otak-atik router & bikin script otomatisasi!  
 
